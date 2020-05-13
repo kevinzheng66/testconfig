@@ -1,2 +1,5 @@
 server：
-    6001
+    port: 6001
+config: 
+    info: abc
+
